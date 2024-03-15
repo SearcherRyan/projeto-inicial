@@ -9,8 +9,9 @@ h1{
     font-weight: bold;
     color:red;
 }
-h1:hover{
-    transition: color 6s;
-    color: green;
+#h1:hover{
+    transition: color 6s, font-size 7s;
+    color: rgb(219, 26, 26);
+    font-size: 33px;
 }
 
